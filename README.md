@@ -132,10 +132,4 @@ for query in queries:
 - **LLM Generation**: Uses Llama-4 to generate contextual answers
 
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 **Built with ❤️ for multimodal AI applications**
