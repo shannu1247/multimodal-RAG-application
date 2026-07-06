@@ -52,7 +52,7 @@ LLM (Llama-4) → Final Answer
 
 ```bash
 # Clone the repository
-git clone https://github.com/prakhar175/multimodal-RAG-application.git
+git clone https://github.com/shannu1247/multimodal-RAG-application.git
 cd multimodal-RAG-application
 
 # Create virtual environment
